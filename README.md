@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JulianAndersonProject
+- 👋 Hi, I’m TheCupist
 - 👀 I’m interested in ...web, games, art
 - 🌱 I’m currently learning ...python html css javascript 
 - 💞️ I’m looking to collaborate on ...
